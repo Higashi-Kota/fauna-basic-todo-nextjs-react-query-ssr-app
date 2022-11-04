@@ -1,0 +1,1 @@
+# fauna-basic-todo-nextjs-react-query-ssr-app
